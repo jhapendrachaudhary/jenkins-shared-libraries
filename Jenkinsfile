@@ -11,6 +11,11 @@ pipeline{
         }
         stage('hello'){
         steps{
+            echo "hello bro.."
+        }
+        }
+        stage('done'){
+        steps{
             echo "done successfully"
         }
         }
