@@ -19,5 +19,10 @@ pipeline{
             echo "done successfully"
         }
         }
+         stage('last moment'){
+        steps{
+            echo "byeeeee"
+        }
+        }
     }
 }
