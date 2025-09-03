@@ -6,5 +6,8 @@ public class app {
         System.out.println("hello world");
         System.out.println(new Date());
         System.out.println("automate from github");
+        System.out.println("Reload automaticaly...");
+        
     }
+    
 }
